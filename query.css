@@ -1,0 +1,52 @@
+@charset "UTF8";
+
+@media only screen and (max-width: 768px) {
+  .fundo {
+    width: 100%;  /*Para reduzir a largura para telas menores*/
+  }
+  h1 {
+    font-size: 1.8;
+    word-break: normal;
+   
+    
+  }
+
+  .p-h1 {
+    font-size: 0.8em;
+
+  }
+
+  .h2-nome, .h2-email {
+    font-size: 0.7em;
+  }
+
+  button {
+    width: 92%;
+  }
+
+  .input-nome, .input-email {
+    width: 100%;
+  }
+
+  .image {
+    display: none;
+  }
+
+  .qr-code {
+    display: none;
+  }
+
+  .txt-code-1, .txt-code-2, .txt-code-3 {
+    display: none;
+  }  
+  
+}
+
+
+  
+    
+    
+  
+    
+        
+
